@@ -1,4 +1,4 @@
-function cube(x) {
+function cube(x) { 
     return x * x * x;  
 }
 
